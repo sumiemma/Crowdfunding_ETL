@@ -44,7 +44,7 @@ Within resources folder:
 
 # Project Outline
 
-# introduction
+## Introduction
 The instructions for this project were separated into four subsections: Create the Category and Subcategory DataFrames, Create the Campaign DataFrames, Create the Contacts DataFrame, and Create the Crowdfunding Database. 
 
 ## Installation
