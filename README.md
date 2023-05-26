@@ -3,8 +3,8 @@
 A collaborative project to build an ETL pipeline using Python, and Pandas, for extracting, transforming, and loading crowdfunding data from Excel files into a relational database.
 
 ## Analysis by
-Emma Ng
-Mwohania Taylor
+- Emma Ng [https://github.com/sumiemma]
+- Mwohania Taylor [https://github.com/nia12taylor]
 
 ## Acknowledgements
 Program: University of California Berkeley Data Analytics Bootcamp
