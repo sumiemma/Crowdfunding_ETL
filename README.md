@@ -8,7 +8,9 @@ A collaborative project to build an ETL pipeline using Python, and Pandas, for e
 
 ## Acknowledgements
 Program: University of California Berkeley Data Analytics Bootcamp
+
 Instructor: Ahmad Sweed
+
 TA’s Venkata Kuppa, Karen Fisher, Brian Perry, Ryan Bernstein
 
 ## Background
