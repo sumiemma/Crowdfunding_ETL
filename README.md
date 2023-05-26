@@ -27,7 +27,7 @@ In this project, we practiced building an ETL pipeline to process crowdfunding d
 ## Data Sources
 
 Within resources folder:
-Category.csv
+[Category.csv](Resources/campaign.csv)
 Subcategory.csv
 [Campaign.csv](Resources/campaign.csv)
 Contacts.csv
