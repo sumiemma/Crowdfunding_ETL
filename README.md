@@ -11,7 +11,7 @@ Program: University of California Berkeley Data Analytics Bootcamp
 
 Instructor: Ahmad Sweed
 
-TA’s Venkata Kuppa, Karen Fisher, Brian Perry, Ryan Bernstein
+TA’s: Venkata Kuppa, Karen Fisher, Brian Perry, Ryan Bernstein
 
 ## Background
 
@@ -44,6 +44,7 @@ Within resources folder:
 
 # Project Outline
 
+# introduction
 The instructions for this project were separated into four subsections: Create the Category and Subcategory DataFrames, Create the Campaign DataFrames, Create the Contacts DataFrame, and Create the Crowdfunding Database. 
 
 ## Installation
